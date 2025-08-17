@@ -1,0 +1,17 @@
+1876 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\other\y4grt6as5w1pu2pc.zip
+933 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\SPX_Options_Data_2022-2023.csv
+738 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\SPX_Options_Data_2021.csv
+719 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\SPX_Options_Data_2022.csv
+639 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\other\dwevldczlbaq6caz.zip
+506 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\SPX_Options_Data_2019.csv
+468 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\SPX_Options_Data_2018.csv
+337 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\other\swv2euq3ch8nwlqf.csv
+331 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Output\simulations\SPX_RoughVol_volatility.csv
+331 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Output\simulations\SPX_Heston_volatility.csv
+307 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Output\simulations\SPX_GBM_paths.csv
+307 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Output\simulations\SPX_RoughVol_paths.csv
+306 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Output\simulations\SPX_Heston_paths.csv
+280 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\other\rezegqa5glavezzm.csv
+270 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\other\o0qyrvts3xnaprvy.csv
+180 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\other\yg32yd4ugalclq5f.csv
+116 MB  	  C:\Users\HP\Documents\GitHub\Dissertation-code-clean\Data\SPX Option Chain\other\nzzfsniu9ftuvexz.csv

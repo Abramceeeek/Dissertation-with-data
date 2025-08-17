@@ -1,0 +1,22 @@
+--- Heston Calibration Parameters (Local) ---
+  v0  kappa  theta  sigma_v  rho
+0.04    2.0   0.04      0.3 -0.7
+
+--- Heston Calibration Parameters (DE) ---
+      v0    kappa    theta  sigma_v      rho
+0.143572 2.243439 0.109357 0.031581 -0.61521
+
+--- Comprehensive Hedging Analysis ---
+   Model Strategy  Mean_PnL  Std_PnL   VaR_95   VaR_99   CTE_95  Worst_Case  Prob_Loss
+  Heston Unhedged   -169.11  1583.53 -2250.00 -2250.00 -2250.00    -2250.00       0.48
+  Heston    Daily    327.98   751.66  -349.15  -530.36  -465.38     -901.21       0.49
+  Heston   Weekly    351.63   744.03  -316.19  -496.22  -426.99     -802.36       0.44
+  Heston  Monthly    362.88   737.89  -307.39  -475.55  -408.40     -778.49       0.41
+     GBM Unhedged   -109.86   689.43  -540.00  -540.00  -540.00     -540.00       0.68
+     GBM    Daily    731.71   380.73   263.29   147.59   190.52       91.19       0.00
+     GBM   Weekly    745.54   377.91   279.44   177.47   213.22      100.31       0.00
+     GBM  Monthly    753.09   377.75   319.00   190.31   246.54       25.74       0.00
+RoughVol Unhedged     40.99  1305.42 -2250.00 -2250.00 -2250.00    -2250.00       0.42
+RoughVol    Daily    399.36   768.37  -416.65  -669.60  -574.78    -1300.08       0.29
+RoughVol   Weekly    410.21   770.17  -398.61  -646.35  -567.06    -1480.06       0.28
+RoughVol  Monthly    415.34   757.25  -403.75  -646.56  -580.49    -2399.49       0.27
